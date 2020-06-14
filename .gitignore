@@ -6,6 +6,5 @@ training/train_pose
 training/optimizers
 training/label_maps
 training/dataset_inspect
-training/dataset_inspect.ipynb
 training/dataset
 videos
